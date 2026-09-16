@@ -38,11 +38,10 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//범일",
     "//Tags",
-    "//CLAUDE",
     "/",
-    "//기타"
+    "//BASIC",
+    "//CLAUDE"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

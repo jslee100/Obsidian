@@ -11,24 +11,16 @@
             "id": "0744871fb0901c70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "기타/Git.md",
-                "mode": "source",
-                "source": false
+                "path": "BASIC"
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "BASIC"
             }
-          }
-        ]
-      },
-      {
-        "id": "902474a0839ac5cf",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "457c823a2b128648",
+            "id": "65edd49fb9d145ca",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -237,25 +229,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0744871fb0901c70",
+  "active": "04ab074478025968",
   "lastOpenFiles": [
-    "범일/범일 NAS.md",
-    "범일/개발서버.md",
-    "CLAUDE/초기설정.md",
-    "CLAUDE/Dashboard 설정.md",
-    "기타/Git.md",
-    "기타/기타.md",
-    "Untitled.md",
-    "기타",
+    "BASIC/BASIC.md",
+    "LEEJS.md",
+    "BASIC/기타/기타.md",
+    "BASIC/CLAUDE/Dashboard 설정.md",
+    "BASIC/CLAUDE/초기설정.md",
+    "CLAUDE",
+    "BASIC",
     "README.md",
+    "Excalidraw/Drawing 2026-09-16 11.21.00.excalidraw.md",
+    "Excalidraw",
+    "BASIC/무제",
+    "Untitled.md",
+    "BASIC",
+    "새 폴더",
+    "환영합니다!.md",
+    "BASIC/기타/Git.md",
+    "BASIC/범일/범일 NAS.md",
+    "BASIC/범일/개발서버.md",
+    "BASIC/기타",
     "무제.md",
     "README.md3",
     "Tags",
     "2026-09-16.md",
-    "무제.base",
-    "범일/무제.base",
-    "범일",
-    "CLAUDE",
-    "환영합니다!.md"
+    "무제.base"
   ]
 }
