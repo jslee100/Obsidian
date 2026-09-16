@@ -41,7 +41,8 @@
     "/",
     "//범일",
     "//Tags",
-    "//기타"
+    "//기타",
+    "//CLAUDE"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

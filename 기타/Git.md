@@ -1,3 +1,4 @@
+[[기타]]
 ## Obsidian Git 정보
 https://github.com/jslee100/Obsidian
 
