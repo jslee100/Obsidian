@@ -40,13 +40,16 @@
   "expandedSpaces": [
     "/",
     "//범일",
-    "//Tags"
+    "//Tags",
+    "//기타"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "README.md"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
