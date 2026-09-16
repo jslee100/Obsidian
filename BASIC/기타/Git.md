@@ -11,6 +11,11 @@ https://github.com/jslee100/Obsidian
 >  - cd D:\Obsidian
 >  - git init
 >  - git remote add origin https://github.com/jslee100/Obsidian.git
+
+> **최초 내려받을 때**
+>  - git clone https://github.com/jslee100/Obsidian.git
+
+>  **소스 올리기**
 >  - git add .
 >  - git commit -m "Initial commit"
 >  - git branch -M main  (메인 branch 설정)
