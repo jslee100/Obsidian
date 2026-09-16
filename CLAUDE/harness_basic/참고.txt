@@ -1,0 +1,33 @@
+project/
+├── CLAUDE.md                   		← 프로젝트 헌법
+├── docs/
+│   ├── PRD.md                   		← 뭘 만드는지
+│   ├── ARCHITECTURE.md     		← 어떻게 만드는지
+│   ├── ADR.md                   		← 왜 이렇게 만드는지
+│   └── UI_GUIDE.md              	← 어떻게 보여야 하는지 (선택)
+├── .claude/
+│   ├── commands/
+│   │   ├── harness.md          		← /harness — 원스톱 실행
+│   │   └── review.md           		← /review — 규칙 기반 리뷰
+│   └── settings.json           		← hooks 설정
+├── scripts/
+│   ├── execute.py              		← Phase 순차 실행 + 상태 관리
+│   └── hooks/
+│       ├── tdd-guard.sh        		← 테스트 없으면 구현 차단
+│       ├── dangerous-cmd-guard.sh 	← 위험 명령어 차단
+│       └── circuit-breaker.sh   		← 반복 에러 감지
+└── phases/                      		← Phase 파일 + 실행 상태
+
+============================================
+뼈대			나		프레임워크 레포 클론
+기획			나 + AI	docs/ 채우기 (PRD, ARCHITECTURE, ADR)
+하네스 설계	나 + AI	CLAUDE.md 규칙 + Hooks 설정
+실행			AI		/harness → execute.py (Phase 순차 실행)
+리뷰			나 + AI	결과물 확인 + docs 보강 + 재실행
+============================================
+
+docs폴더와 harness 세팅을 명령을 통해서 세분화.
+docs폴더를 세팅할 경우 여러 관점(ex. 개발자, 사용자 등등)에 따라 계획을 여러 번 요청하여 세분화 필요.
+
+
+참고url: https://raspy-roll-970.notion.site/340f7725c9d98176b68bd31c823c7540
