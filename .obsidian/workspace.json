@@ -11,12 +11,14 @@
             "id": "0744871fb0901c70",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "CLAUDE"
+                "file": "기타/Git.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Git"
             }
           }
         ]
@@ -237,19 +239,19 @@
   },
   "active": "0744871fb0901c70",
   "lastOpenFiles": [
-    "CLAUDE/Dashboard 설정.md",
+    "범일/범일 NAS.md",
+    "범일/개발서버.md",
     "CLAUDE/초기설정.md",
-    "기타/기타.md",
+    "CLAUDE/Dashboard 설정.md",
     "기타/Git.md",
+    "기타/기타.md",
     "Untitled.md",
     "기타",
     "README.md",
     "무제.md",
-    "범일/개발서버.md",
     "README.md3",
     "Tags",
     "2026-09-16.md",
-    "범일/범일 NAS.md",
     "무제.base",
     "범일/무제.base",
     "범일",
