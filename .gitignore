@@ -1,26 +1,3 @@
-
-
-# Per-device UI/window state — changes constantly, not meaningful history
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/workspace.json.bak
-
-# Local cache / index data (regenerates automatically)
-.obsidian/cache
-.obsidian/plugins/*/data.json.bak
-
-# Obsidian Git plugin's own bookkeeping file (tracks last auto backup/pull)
-.obsidian-git-data
-
-# ---------- Obsidian trash ----------
-# Notes/files you deleted from within Obsidian land here first
-/.trash/
-# .smart-connections/
-# .obsidian/plugins/*/copilot-index-*.json
-
-# ---------- OS / editor cruft ----------
-.DS_Store
-Thumbs.db
-desktop.ini
-.vscode/
-.idea/
+.trash/
+.obsidian/
+.space/
