@@ -65,5 +65,4 @@ https://github.com/jslee100/Obsidian
 	.idea/
 	.vscode/
 	*.log
-> ```
-
+> 	```
